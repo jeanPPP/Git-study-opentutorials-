@@ -4,8 +4,12 @@ Git = version control system
 
 ex) report_final_real_real_final.word
 
+
+
 version control system?
+
 version Management, not by changing the file name
+
 
 그 외에 제공하는 것
 * Backup
@@ -17,6 +21,8 @@ version Management, not by changing the file name
 CVS SVN GIT
 
 오늘 날 많은 사람들이 사용하는 GIT
+
+***
 
 버전 관리 시스템에는 본질적인 요소와 혁신적인 요소가 있다.
 * 본질: 변경사항 관리
@@ -30,7 +36,9 @@ GIT is incredibly complex
 
 You can get a sense by using Dropbox, Google Drive
 
+
 Why is it difficult to use GIT?
+
 Because real life is more hell than git
 
 >ex)
