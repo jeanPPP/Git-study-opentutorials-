@@ -1,6 +1,7 @@
 Git = version control system
 -----------------
 낯설어보이지만 낯선 것이 아님
+
 ex) report_final_real_real_final.word
 
 version control system?
@@ -32,11 +33,11 @@ You can get a sense by using Dropbox, Google Drive
 Why is it difficult to use GIT?
 Because real life is more hell than git
 
-ex)
-현재 코드는 간단할 때는 깃의 어려움이 훨씬 큼.
-그러므로 현재 상태에서는 깃을 사용하면 전체적인 복잡성이 엄청 커짐.
+>ex)
+>현재 코드는 간단할 때는 깃의 어려움이 훨씬 큼.
+>그러므로 현재 상태에서는 깃을 사용하면 전체적인 복잡성이 엄청 커짐.
 
-하지만 코드가 어마어마하게 복잡할 때 깃을 도입하면 프로젝트의 복잡도가 낮아질 수 있음.
+>하지만 코드가 어마어마하게 복잡할 때 깃을 도입하면 프로젝트의 복잡도가 낮아질 수 있음.
 
 추천하는 방향
 1. 일단 드랍박스 사용
