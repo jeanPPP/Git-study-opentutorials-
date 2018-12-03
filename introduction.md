@@ -1,4 +1,5 @@
 Git = version control system
+-----------------
 낯설어보이지만 낯선 것이 아님
 ex) report_final_real_real_final.word
 
@@ -6,7 +7,9 @@ version control system?
 version Management, not by changing the file name
 
 그 외에 제공하는 것
-Backup, Recovery, Collaboration
+* Backup
+* Recovery
+* Collaboration
 
 
 그 중에 구체적인 제품이 존재
@@ -15,13 +18,14 @@ CVS SVN GIT
 오늘 날 많은 사람들이 사용하는 GIT
 
 버전 관리 시스템에는 본질적인 요소와 혁신적인 요소가 있다.
-본질: 변경사항 관리
-혁신: CVS와 SVN을 무찌를 수 있었던 GIT의 차이점
+* 본질: 변경사항 관리
+* 혁신: CVS와 SVN을 무찌를 수 있었던 GIT의 차이점
 
 혁신은 나중에.
 
 
 GIT is incredibly complex
+------------------
 
 You can get a sense by using Dropbox, Google Drive
 
