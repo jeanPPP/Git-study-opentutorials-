@@ -1,14 +1,19 @@
 저장소 만들기
 ----------
 
-프로젝트 파일을 만듦
+프로젝트 파일을 만듦<br/>
 `mkdir gitfth`
 
-현재 위치 
-`~/Documents/gitfth`
 
-현재 디렉토리를 git의 버전 저장소로 만듦
+
+현재 위치<br/>`~/Documents/gitfth`
+
+
+
+현재 디렉토리를 git의 버전 저장소로 만듦  
 `git init`
+
+
 
 git이 관리할 대상으로 파일 등록
 ----------------------
@@ -23,14 +28,14 @@ f1.txt라는 파일을 만들고 거기에 숫자 1을 쓸것.
 
 입력하고 esc를 누르면 편집할 수 없게 됨.
 
-`:wq`
+`:wq`  
 종료와 저장
 
-`cat f1.txt`
+`cat f1.txt`  
 내용을 확인할 수 있음.
 
-`git status`
-현재 상황에서 status를 입력하면 untracked files가 나옴.
+`git status`  
+현재 상황에서 status를 입력하면 untracked files가 나옴.  
 프로젝트 폴더 안에 있긴 하지만 이 파일을 버전관리하라고 지정하지는 않았으므로, git에서 배제하는 것.
 
 `git add f1.txt`
